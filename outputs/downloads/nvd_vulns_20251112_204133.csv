@@ -1,0 +1,2 @@
+PROJECT_NAME,PROJECT_TYPE,PRODUCT_NAME,ISSUE_SEVERITY,CVE,CWE,CVSS_SCORE,SEMVER_VULNERABLE_RANGE,FIXED_IN_VERSION,VULNERABILITY_PUBLICATION_DATE,FIRST_INTRODUCED,UPDATED_AT,DESCRIPTION
+urllib3,pip,NVD Database,medium,CVE-2024-37891,CWE-669,4.4,,,2024-06-17T20:15:13.450,,2025-11-03T22:17:00.957," urllib3 is a user-friendly HTTP client library for Python. When using urllib3's proxy support with `ProxyManager`, the `Proxy-Authorization` header is only sent to the configured proxy, as expected. "

@@ -1,0 +1,11 @@
+package,cve,cwes,severity,first_affected_version,first_affected_date,disclosed_date,mitigation_version,mitigation_date,disclosure_lag_days,time_to_fix_from_first_days,time_to_fix_from_disclosure_days,fix_semver_type
+urllib3,CVE-2024-37891,,moderate,0,,2024-06-17,1.26.19,2024-06-17,,,0,major
+urllib3,CVE-2023-45803,,moderate,0,,2023-10-17,2.0.7,2023-10-17,,,0,major
+urllib3,CVE-2018-25091,,moderate,0,,2023-10-15,1.24.2,2019-04-17,,,-1642,major
+urllib3,CVE-2023-43804,,high,0,,2023-10-02,2.0.6,2023-10-02,,,0,major
+requests,CVE-2024-35195,,moderate,0,,2024-05-20,2.32.0,2024-05-20,,,0,major
+requests,CVE-2023-32681,,moderate,2.3.0,2014-05-16,2023-05-22,2.31.0,2023-05-22,3293.0,3293.0,0,minor
+requests,CVE-2023-32681,,unknown,2.3.0,2014-05-16,2023-05-26,2.31.0,2023-05-22,3297.0,3293.0,-4,minor
+certifi,CVE-2024-39689,,low,2021.5.30,2021-05-30,2024-07-05,2024.7.4,2024-07-04,1132.0,1131.0,-1,major
+certifi,CVE-2023-37920,,high,2015.4.28,,2023-07-25,2023.7.22,2023-07-22,,,-3,major
+certifi,CVE-2023-37920,,unknown,2015.4.28,,2023-08-03,2023.7.22,2023-07-22,,,-12,major

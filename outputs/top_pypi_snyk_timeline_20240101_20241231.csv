@@ -1,0 +1,2 @@
+package,cve,cwes,severity,first_affected_version,first_affected_date,disclosed_date,mitigation_version,mitigation_date,disclosure_lag_days,time_to_fix_from_first_days,time_to_fix_from_disclosure_days,fix_semver_type
+urllib3,CVE-2024-37891,CWE-669,low,0,,2024-06-17,1.26.19,2024-06-17,,,0,major
