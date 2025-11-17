@@ -1,0 +1,12 @@
+{
+  "year": 2025,
+  "nodes": 51,
+  "edges": 146,
+  "density": 0.11450980392156863,
+  "diameter_giant": 4.0,
+  "avg_path_len_giant": 2.3237742830712302,
+  "avg_clustering": 0.26433621536061896,
+  "degree_assortativity": -0.1795779654294698,
+  "components": 5,
+  "giant_component_size": 47
+}

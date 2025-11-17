@@ -1,0 +1,12 @@
+{
+  "year": 2024,
+  "nodes": 61,
+  "edges": 194,
+  "density": 0.10601092896174863,
+  "diameter_giant": 4,
+  "avg_clustering": 0.29610145921902686,
+  "degree_assortativity": -0.15605783941597715,
+  "components": 1,
+  "giant_component_size": 61,
+  "active_nodes": 61
+}

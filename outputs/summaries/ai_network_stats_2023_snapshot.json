@@ -1,0 +1,12 @@
+{
+  "year": 2023,
+  "nodes": 31,
+  "edges": 52,
+  "density": 0.11182795698924732,
+  "diameter_giant": 5.0,
+  "avg_path_len_giant": 2.4188034188034186,
+  "avg_clustering": 0.13175534143276077,
+  "degree_assortativity": -0.3029508562503485,
+  "components": 5,
+  "giant_component_size": 27
+}
