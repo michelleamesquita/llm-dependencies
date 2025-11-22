@@ -1,12 +1,12 @@
 {
   "year": 2023,
-  "nodes": 37,
-  "edges": 70,
-  "density": 0.10510510510510511,
-  "diameter_giant": 5,
-  "avg_clustering": 0.11001716001716004,
-  "degree_assortativity": -0.19666053921568652,
-  "components": 5,
-  "giant_component_size": 32,
-  "active_nodes": 37
+  "nodes": 28,
+  "edges": 54,
+  "density": 0.14285714285714285,
+  "diameter_giant": 4,
+  "avg_clustering": 0.17473201401772828,
+  "degree_assortativity": -0.3482526825602269,
+  "components": 3,
+  "giant_component_size": 26,
+  "active_nodes": 28
 }
